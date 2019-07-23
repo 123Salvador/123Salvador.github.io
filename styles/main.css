@@ -1,0 +1,44 @@
+body{
+	background: rgb(0,0,0);
+	text-indent: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#title{
+		color: yellow;
+		text-align: center;
+		text-decoration: underline;
+		text-shadow: elegantshadow;
+	}
+
+	#links{
+		color: black;
+		border-style: solid;
+		border-color: yellow;
+		border-radius: 17px;
+		background: white;
+		color: black;
+	}
+	#words{
+		color: yellow;
+	}
+
+	#Paragraph{
+		margin-left: 20px
+		color: yellow;
+	}
+	
+	#Hi{
+		color: yellow;
+	}
+
+	.describe{
+		color: yellow;
+	}
+
+	#instagram{
+		color: white;
+	}
+	#hola{
+		border-color: white;
+	}

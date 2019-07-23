@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Condensed'), local('RobotoCondensed-Regular'), url(https://fonts.gstatic.com/l/font?kit=ieVl2ZhZI2eCN5jzbjEETS9weq8-59CpLg4WRcNtSRZO1OZ-_UBzaJ7Ig_5Ip_xz582PkD299EmOSJ1MfPxj&skey=9986ecffddb755ab&v=v17) format('woff2');
+}
